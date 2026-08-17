@@ -1,7 +1,5 @@
 # to_do_list
-<p align="center">
-  <img src=".gif" width="100%" height="250">
-</p>
+
 # To-Do List CLI (Python)
 
 A simple command-line to-do list application written in Python.  
@@ -23,4 +21,9 @@ It allows you to manage tasks with priorities, save them to a CSV file, and auto
 3. Run it from the terminal:
 
 ```bash
+
+<p align="center">
+  <img src=".gif"  height="250">
+</p>
 python todo.py
+
