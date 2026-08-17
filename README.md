@@ -1,6 +1,7 @@
 # to_do_list
 
 # To-Do List CLI (Python)
+<img src=".gif" width="300">
 
 A simple command-line to-do list application written in Python.  
 It allows you to manage tasks with priorities, save them to a CSV file, and automatically sort by priority before saving.
@@ -15,7 +16,7 @@ It allows you to manage tasks with priorities, save them to a CSV file, and auto
 - 🔁 Auto‑sort by priority: `high` → `medium` → `low`
 
 
-<img src=".gif" width="300">
+
 ## How to Run
 
 1. Make sure you have Python 3 installed.
