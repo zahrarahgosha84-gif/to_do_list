@@ -22,8 +22,10 @@ It allows you to manage tasks with priorities, save them to a CSV file, and auto
 
 ```bash
 
+python todo.py
+
+
 <p align="center">
   <img src=".gif"  height="250">
 </p>
-python todo.py
 
