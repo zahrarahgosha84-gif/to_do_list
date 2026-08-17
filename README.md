@@ -1,4 +1,7 @@
 # to_do_list
+<p align="center">
+  <img src=".gif" width="100%" height="250">
+</p>
 # To-Do List CLI (Python)
 
 A simple command-line to-do list application written in Python.  
