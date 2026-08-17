@@ -14,6 +14,8 @@ It allows you to manage tasks with priorities, save them to a CSV file, and auto
 - 📂 Load tasks from a CSV file (method available, ready to extend)
 - 🔁 Auto‑sort by priority: `high` → `medium` → `low`
 
+
+<img src=".gif" width="300">
 ## How to Run
 
 1. Make sure you have Python 3 installed.
@@ -25,4 +27,3 @@ It allows you to manage tasks with priorities, save them to a CSV file, and auto
 python todo.py
 
 
-<img src=".gif" width="300">
